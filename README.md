@@ -1,5 +1,7 @@
 ## Welcome to flatpage.cf for testing  GitHub Pages
 
+Valerie was here and she hacked my beautiful website :( <boohoo>
+
 Visit this site [here](https://flatpage.github.io/ghptest/).
 
 You can use the [editor on GitHub](https://github.com/flatpage/ghptest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
